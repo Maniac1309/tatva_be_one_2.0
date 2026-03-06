@@ -97,8 +97,8 @@ cd ../client
 npm run dev
 ```
 
-## Contributing
+## Hackathon
 
-Contributions, suggestions, and feedback are welcome.
+This project was developed during the Tatva BeOne Hackathon.
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+The goal was to create an engaging wellness platform that helps users discover their wellness DNA and improve their lifestyle through gamified experiences.
