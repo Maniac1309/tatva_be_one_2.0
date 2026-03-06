@@ -99,6 +99,6 @@ npm run dev
 
 ## Hackathon
 
-This project was developed during the Tatva BeOne Hackathon.
+This project was developed during the BuildFest Hackathon sponsored by TatvaBeOne.
 
 The goal was to create an engaging wellness platform that helps users discover their wellness DNA and improve their lifestyle through gamified experiences.
